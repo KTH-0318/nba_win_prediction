@@ -15,8 +15,8 @@ XGBoost 득점 예측 모델 + 몬테카를로 시뮬레이션으로 2024-25 NBA
 04_PER 분석.ipynb
 05_on off rating 지표.ipynb
 06_홈경기 원정경기 승률.ipynb
-07_최근 10경기 주요선수 top3.ipynb
-08_시각화.ipynb
+07_시각화 7번.ipynb
+08_최근 10경기 주요선수 top3.ipynb
 09_최종 모델.ipynb
 
 ## 기술 스택
